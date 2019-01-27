@@ -1615,7 +1615,7 @@ figure.vimeo a img, figure.youtube a img {
 	position:absolute;
 	top:0;
 	left:0;
-	fill: darkred;
+	fill: #00539C;
 	display: block;
 	z-index: -1;
     -webkit-transition: all 300ms linear;
